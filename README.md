@@ -87,6 +87,7 @@ Location: Maryland
 
 ### Dispatch Charge ###
 Check the dispatch charge before stating it.
+If the service has a $0 dispatch charge, do not mention any charge at all.
 
 ## COMMON QUESTIONS
 
